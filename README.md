@@ -19,7 +19,7 @@
 
 ## Note
 - We're still solidifying and testing the smart contract on our other UI/frontend before we integrate it to our mobile app and web app.
-- As of now connecting to wallet, listing of NFT, getting the nft's in specific wallet is already working.
+- As of now connecting to wallet, miniting & listing of NFT, getting the nft's in specific wallet is already working.
 
 [ALL NFTS FROM MARKETPLACE]
 <img width="1440" alt="image" src="https://github.com/FanHUB-ph/fanhub-smart-contracts/assets/37571727/fde7c384-be04-486f-a57a-1f3224e07996">
